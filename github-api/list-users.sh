@@ -1,14 +1,5 @@
 #!/bin/bash
 
-############################################################################
-# About: list users
-#
-# Inputs: It requires export your username and password. 
-#         And input args are org name and repo name
-#
-# Owner: Originally written by Abhishek Veeramalla, I am learing from it :)
-############################################################################
-
 # GitHub API URL
 API_URL="https://api.github.com"
 
